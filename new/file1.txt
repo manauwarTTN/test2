@@ -1,0 +1,9 @@
+My Name is Manauwar
+<<<<<<< HEAD
+Son of Nuruddin Ansari
+=======
+My Father Name is Nuruddin Ansari
+My Mother Name is Mussarat Yasmin
+>>>>>>> main
+"Hello,World"
+"This is us"
